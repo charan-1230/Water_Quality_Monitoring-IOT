@@ -2,6 +2,9 @@
 
 A real-time water quality monitoring system using ESP32 that measures TDS (Total Dissolved Solids) and turbidity levels, with cloud connectivity and alerts.
 
+[Click Here](https://drive.google.com/drive/folders/1M1vC5WxWjOEIWhvPctRmyXq7FNjlsusn?usp=sharing)
+
+
 ## Project Overview
 
 This IoT-based water quality monitoring system continuously monitors water quality parameters and provides real-time data visualization and alerts. The system uses sensors to measure water quality and sends data to ThingSpeak cloud platform for remote monitoring.
@@ -163,3 +166,4 @@ Monitor the serial output for:
 - Sensor readings
 - ThingSpeak upload confirmation
 - Water quality classifications
+
